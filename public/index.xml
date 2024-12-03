@@ -20,7 +20,7 @@
       <link>http://localhost:1313/posts/intro2/</link>
       <pubDate>Sat, 30 Nov 2024 10:33:36 -0500</pubDate>
       <guid>http://localhost:1313/posts/intro2/</guid>
-      <description></description>
+      <description>&lt;p&gt;#Nuevo titulo&lt;/p&gt;</description>
     </item>
     <item>
       <title>Writing math with Hugo</title>
